@@ -30,7 +30,7 @@ Follow these steps to run the project locally:
 
 Clone the repository
 
-git clone https://github.com/yourusername/Weather-App.git
+https://github.com/sangitabora16/Weather-App
 
 
 Navigate to the project folder
